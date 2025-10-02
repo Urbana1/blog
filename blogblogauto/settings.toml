@@ -1,0 +1,7 @@
+[openai]
+model = "gpt-4o-mini"
+
+[runtime]
+topic = "クレジットカード比較"
+offer = "https://hapitas.jp/offer/test"
+dry_run = true
